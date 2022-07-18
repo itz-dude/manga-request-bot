@@ -37,7 +37,7 @@ example:
 ### /crequest - command
 ```
 /crequest command is used to request mangaURL and channelID, there are some bots that are automated which will need URL of the manga, and Channel ID from where the automated bot will post the manga chapters.
-_Channel ID can be extracted from the url of web version of telegram._
+_Channel ID can be extracted from the url of web version of telegram_
 example:
 /crequest https://mangafreak.online/manga/martial-peak/ -10088377449
 ```
