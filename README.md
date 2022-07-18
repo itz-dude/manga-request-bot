@@ -45,9 +45,12 @@ example:
 
 ## Env Variables
 
-`API_ID` - Get the value from [my.telegram.org](https://my.telegram.org/apps)
-`API_HASH` - Get the value from [my.telegram.org](https://my.telegram.org/apps)
+`API_ID` - Get the value from [my.telegram.org](https://my.telegram.org/apps) here.
+
+`API_HASH` - Get the value from [my.telegram.org](https://my.telegram.org/apps) here.
+
 `BOT_TOKEN` - Make a bot from [@BotFather](https://t.me/BotFather) and enter token here.
+
 `GSPREAD_JSON` - A link of google sheets API JSON file hosted in the cloud, Configure it in https://console.cloud.google.com. For more help [watch this video.](https://www.youtube.com/watch?v=bu5wXjz2KvU)
 
 ## Deploy
