@@ -14,7 +14,7 @@ class starter:
             chat_id=message.chat.id,
             caption=f"Hi **__{first_name}__**, {start_text}",
             parse_mode=enums.ParseMode.MARKDOWN,
-            photo="https://telegra.ph/file/618567217c6733a205f95.jpg"
+            photo="https://telegra.ph/file/14d41a3b7c913bd693ac0.jpg"
         )
 
     @bot.on_message(filters=filters.command(['help']))
