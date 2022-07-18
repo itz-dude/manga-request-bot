@@ -51,7 +51,7 @@ example:
 
 `BOT_TOKEN` - Make a bot from [@BotFather](https://t.me/BotFather) and enter token here.
 
-`GSPREAD_JSON` - A link of google sheets API JSON file hosted in the cloud, Configure it in https://console.cloud.google.com. For more help [watch this video.](https://www.youtube.com/watch?v=bu5wXjz2KvU)
+`GSPREAD_JSON` - A link of google sheets API JSON file hosted in the cloud, configure it in https://console.cloud.google.com. For more help [watch this video.](https://www.youtube.com/watch?v=bu5wXjz2KvU)
 
 ## Deploy
 You can deploy your own project on [Heroku](https://www.heroku.com/)
