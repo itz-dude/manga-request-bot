@@ -1,4 +1,4 @@
-start_text = """</start Description of the bot, make sure to include /help command>"""
+start_text = """This A bot For @mangax_updates made for specially Manga Channel uploaders for using @mangax_robot in their channels for Auto uploading in their channel.But you need to go through verification"""
 
 help_text = """List of commands:
 
